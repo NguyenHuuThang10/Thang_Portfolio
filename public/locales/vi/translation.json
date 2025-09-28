@@ -1,0 +1,64 @@
+{
+    "appHeader": {
+        "brand": "THẮNG",
+        "home": "Trang chủ",
+        "project": "Dự án",
+        "contact": "Liên hệ",
+        "about": "Về tác giả"
+    },
+    "heroSection": {
+        "exp": "Kinh nghiệm",
+        "cv": "Tải Resume"
+    },
+    "introSection": {
+        "about": "Giới thiệu",
+        "heading1": "Mình đam mê lập trình và xây dựng các ứng dụng web có khả năng mở rộng.",
+        "heading2": "Thành thạo JavaScript, có kinh nghiệm với Node.js, Express, React, RESTful API, MySQL và MongoDB.",
+        "heading3": "Ngoài ra, mình còn triển khai và vận hành hệ thống trên AWS và các nền tảng cloud hiện đại.",
+        "heading4": "Lĩnh vực quan tâm chính của mình là phát triển công nghệ web và sản phẩm mang lại giá trị thực tế cho người dùng.",
+        "heading5": "Bất cứ khi nào có thể, mình luôn áp dụng đam mê lập trình để tạo ra giải pháp hiệu quả, bảo mật và thân thiện với người dùng."
+    },
+    "experience": {
+        "title": "Kinh nghiệm làm việc"
+    },
+    "skill": {
+        "title": "Kỹ năng"
+    },
+    "projectSection": {
+        "title": "Dự Án Gần Đây",
+        "subtitle": "Dưới đây là một số dự án mình đã thực hiện gần đây.",
+        "projects": {
+            "1": {
+                "title": "Ứng dụng bán giày trực tuyến",
+                "description": "Một ứng dụng web thương mại điện tử fullstack mô phỏng cửa hàng giày thực tế, có chức năng đăng nhập, duyệt sản phẩm, giỏ hàng, thanh toán và quản trị. Triển khai trên AWS EC2 với tài nguyên tĩnh trên S3, đã test với 200+ sản phẩm và 40+ đơn hàng thật."
+            },
+            "2": {
+                "title": "Website tổ chức từ thiện VNO",
+                "description": "Trang web CMS chuyên nghiệp dành cho tổ chức từ thiện VNO, cho phép đăng blog, chia sẻ câu chuyện, quản trị nội dung và nhận quyên góp hoặc liên hệ từ người dùng."
+            },
+            "3": {
+                "title": "Landing Page – Chiến dịch Salla Food",
+                "description": "Landing page cho chiến dịch Mega Sale của Salla Food, có bộ đếm ngược thực tế, bộ đếm thời gian do admin cấu hình, form đăng ký người dùng, tự động gửi email và lưu dữ liệu qua API vào Google Sheets."
+            }
+        }
+    },
+    "aboutSection": {
+        "title": "GIỚI THIỆU BẢN THÂN",
+        "hello": "Xin chào mọi người, mình là Nguyễn Hữu Thắng đến từ TP. Hồ Chí Minh, Việt Nam.",
+        "job": "Hiện tại mình đang làm freelance developer cho các dự án start-up.",
+        "degree": "Mình tốt nghiệp bằng Kỹ sư Công nghệ Thông tin tại Trường Đại học Công nghiệp TP. Hồ Chí Minh.",
+        "hobbyTitle": "Ngoài lập trình, mình còn yêu thích một số hoạt động như:",
+        "hobby1": "Chơi thể thao",
+        "hobby2": "Tìm hiểu công nghệ mới",
+        "hobby3": "Chơi game",
+        "quote": "\"Đằng sau mỗi lập trình viên thành công… là rất nhiều lần build thất bại.\"",
+        "education": {
+            "title": "Học vấn",
+            "year": "2020–2025",
+            "major": "Công nghệ Thông tin",
+            "school": "Trường Đại học Công nghiệp TP. Hồ Chí Minh (IUH)"
+        },
+        "contactTitle": "TÌM TÔI TRÊN",
+        "contactMe": "Liên hệ với tôi"
+    }
+}

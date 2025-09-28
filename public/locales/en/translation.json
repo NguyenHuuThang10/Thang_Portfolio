@@ -1,0 +1,64 @@
+{
+    "appHeader": {
+        "brand": "THANG",
+        "home": "Home",
+        "project": "Project",
+        "contact": "Contact",
+        "about": "About"
+    },
+    "heroSection": {
+        "exp": "My Skill",
+        "cv": "Get Resume"
+    },
+    "introSection": {
+        "about": "About me",
+        "heading1": "I am passionate about programming and building scalable web applications.",
+        "heading2": "Skilled in JavaScript with experience in Node.js, Express, React, RESTful APIs, MySQL, and MongoDB.",
+        "heading3": "I also deploy and manage systems on AWS and modern cloud platforms.",
+        "heading4": "My main interest is developing web technologies and products that bring real value to users.",
+        "heading5": "Whenever possible, I apply my passion for coding to create efficient, secure, and user-friendly solutions."
+    },
+    "experience": {
+        "title": "Experiences"
+    },
+    "skill": {
+        "title": "Skills"
+    },
+    "projectSection": {
+        "title": "My Recent Works",
+        "subtitle": "Here are a few projects I've worked on recently.",
+        "projects": {
+            "1": {
+                "title": "Online Shoe Store App",
+                "description": "A fullstack eCommerce web app simulating a real-world shoe store, featuring user auth, product browsing, cart, checkout, and admin dashboard. Deployed on AWS EC2 with static assets on S3, tested in production with 200+ products and 40+ real orders."
+            },
+            "2": {
+                "title": "VNO charity organization website",
+                "description": "A production-ready CMS-based charity website built for VNO Charity Organization, enabling the team to publish blogs, share impact stories, manage content via admin dashboard, and receive donations or contact submissions from users."
+            },
+            "3": {
+                "title": "Landing Page – Salla Food Campaign",
+                "description": "A production-ready landing page developed for Salla Food's Mega Sale campaign. The site features a real-time countdown to the sales launch, a custom admin-set timer, and a registration form to collect leads, auto-send email alerts, and log data into Google Sheets via API."
+            }
+        }
+    },
+    "aboutSection": {
+        "title": "Know Who I'M",
+        "hello": "Hi Everyone, I am Nguyen Huu Thang from Ho Chi Minh, VietNam.",
+        "job": "I am currently employed as a a freelance dev (start-up).",
+        "degree": "I graduated with a Bachelor's degree in Information Technology Engineering from Industry University of Ho Chi Minh City.",
+        "hobbyTitle": "Apart from coding, some other activities that I love to do!",
+        "hobby1": "Playing sports",
+        "hobby2": "Exploring new technologies",
+        "hobby3": "Playing Games",
+        "quote": "\"Behind every successful developer… is a lot of failed builds.\"",
+        "education": {
+            "title": "Education",
+            "year": "2020–2025",
+            "major": "Information Technology",
+            "school": "Industry University of Ho Chi Minh City (IUH)"
+        },
+        "contactTitle": "FIND ME ON",
+        "contactMe": "Contact me"
+    }
+}

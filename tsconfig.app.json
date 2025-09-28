@@ -1,0 +1,53 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    "lib": [
+      "ES2020",
+      "DOM",
+      "DOM.Iterable"
+    ],
+    "module": "ESNext",
+    "skipLibCheck": true,
+    /* Bundler mode */
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "isolatedModules": true,
+    "moduleDetection": "force",
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "allowJs": true, // To allow importing .js files like todo.list.jsx
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ],
+      "config/*": [
+        "./src/app/_config/*"
+      ],
+      "assets/*": [
+        "./src/assets/*"
+      ],
+      "components/*": [
+        "./src/components/*"
+      ],
+      "helpers/*": [
+        "./src/helpers/*"
+      ],
+      "pages/*": [
+        "./src/pages/*"
+      ],
+      "styles/*": [
+        "./src/styles/*"
+      ],
+    },
+    /* Linting */
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true
+  },
+  "include": [
+    "src"
+  ]
+}
